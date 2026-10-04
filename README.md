@@ -6,6 +6,18 @@ by Prashant Thakur, Ishfaq Ahmad Rather, and Y. Lim.
 
 **Data-only reproduction repository. The stellar solver source is excluded.**
 
+Full-GR mode frequencies and gravitational-wave damping times for bosonic
+dark-matter-admixed neutron stars: **21 nuclear equations of state, core and
+halo configurations, and four dark-matter fractions**. Reproduce **12 figures
+and 3 tables from the saved numerical data with one command**.
+
+![Full-GR core f-mode frequencies versus gravitational mass, showing NM-led and DM-led branches for four dark-matter fractions](docs/assets/core-mode-spectrum.png)
+
+*Core configurations: solid curves are NM-led modes, dashed curves are
+DM-led modes, and dotted curves are pure normal-matter references. Panels
+show dark-matter fractions of 1%, 5%, 10%, and 20%.*
+[View the full-resolution figure](reference/paper_figures/core_freq.pdf).
+
 ## Reproduce everything
 
 On Linux with Python 3.11 or 3.12, unzip this repository, open a terminal in
