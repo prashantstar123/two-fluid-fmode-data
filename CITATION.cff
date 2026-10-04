@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and the released dataset when available."
+title: "Two-fluid neutron-star f-mode data and reproduction scripts"
+type: dataset
+version: 0.1.0
+authors:
+  - family-names: Thakur
+    given-names: Prashant
+    orcid: "https://orcid.org/0000-0003-4189-6176"
+  - family-names: Rather
+    given-names: Ishfaq Ahmad
+    orcid: "https://orcid.org/0000-0001-5930-7179"
+  - family-names: Lim
+    given-names: Y.
+    orcid: "https://orcid.org/0000-0001-9252-823X"
+preferred-citation:
+  type: article
+  title: "Dark matter in neutron stars: two-fluid f-mode oscillations in full general relativity"
+  year: 2026
+  authors:
+    - family-names: Thakur
+      given-names: Prashant
+    - family-names: Rather
+      given-names: Ishfaq Ahmad
+    - family-names: Lim
+      given-names: Y.

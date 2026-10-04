@@ -1,0 +1,11 @@
+[
+  {
+    "eos": "EOS1",
+    "fraction_percent": 1,
+    "target": "Mmax",
+    "branch": "NM",
+    "assessment": "Excluded by the article's stationary-phase and point-mass validity assessment",
+    "reason": "omega*t_res is about 4.4, and (R_NM+R_comp)/D_res is about 0.956; the required asymptotic scale separations are not established.",
+    "scope": "A recorded physical assessment, not a universal numerical cutoff for the qualitative much-less-than and much-greater-than conditions."
+  }
+]
