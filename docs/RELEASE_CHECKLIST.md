@@ -1,19 +1,26 @@
-# Publication hold
+# Release record
 
-This candidate is for private verification. It is not an instruction to
-upload, push, publish, create a public repository, or deposit a DOI record.
+The project owner explicitly authorized public access to the data/reproduction
+repository on 2026-10-04, after private review and verification.
 
-Before publication the project lead must:
+## Authorized scope
 
-1. Review the clean-download verification record and representative outputs.
-2. Approve the repository name and separate GitHub destination. Do not push
-   into an unrelated repository or import an existing research history.
-3. Approve distribution of the selected data and the observational display
-   outlines, including their attribution and redistribution basis.
-4. Choose licenses for the new plotting code and numerical data. Possible
-   choices can be discussed; none has been granted by this candidate.
-5. Supply the final article identifier if available, and approve citation metadata.
-6. Explicitly authorize publication. A successful test is not that authorization.
+The released contents are the verified numerical datasets, data-only plotting
+and table-generation scripts, comparison fixtures, tests and documentation.
+The scientific stellar solver is not included. Its separate repository must
+remain private. No DOI deposit or publication of any other repository is
+authorized by this release.
+
+## Remaining metadata decisions
+
+- No additional software or data reuse license has been selected. Public
+  access must not be described as a permissive open-source license.
+- Article and permanent dataset identifiers may be added when available;
+  none is to be invented.
+- Observational outlines remain attributed display products, not original
+  posterior data. No ownership of third-party observational products is claimed.
+
+## Maintenance boundary
 
 The distribution must contain only the allowlisted release files. Exclude
 environments, caches, private preparation tools, credentials, solver source,

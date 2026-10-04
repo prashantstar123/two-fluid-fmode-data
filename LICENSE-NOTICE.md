@@ -1,10 +1,11 @@
-# Rights notice for private review
+# Rights notice
 
 Copyright 2026 the respective authors and rights holders.
 
-This is an unpublished private release candidate. No public redistribution
-license has yet been selected or granted for this package. The project lead
-must approve licenses and third-party attribution before publication.
+The project owner has authorized public access to this repository. No
+additional software or data reuse license has been selected or granted for
+this package. Public repository visibility is not presented as an open-source
+license. Contact the authors about any additional permissions required.
 
 The observational display outlines are derived from the figures of the
 associated article, which cites the underlying observational studies. They

@@ -1,6 +1,6 @@
 # Verification record
 
-Date: 2026-10-04. Status: **PASS for data-only reproduction. Publication remains on hold.**
+Date: 2026-10-04. Status: **PASS for data-only reproduction. Public release authorized by the project owner.**
 
 ## Clean-environment tests
 
@@ -66,5 +66,6 @@ Numerical data occupy approximately 9.2 MB before ZIP compression.
 
 This verifies reproduction from saved data, not a new independent full-GR
 solver implementation. The observational outlines remain display products,
-not posterior samples. Publication, licenses, and redistribution approval
-remain the project lead's decisions.
+not posterior samples. The project owner authorized public access to the
+data/reproduction repository on 2026-10-04. No additional reuse license has
+been selected; the solver source remains excluded and private.

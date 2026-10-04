@@ -4,7 +4,7 @@ Numerical data and data-only reproduction scripts accompanying
 **Dark matter in neutron stars: two-fluid f-mode oscillations in full general relativity**,
 by Prashant Thakur, Ishfaq Ahmad Rather, and Y. Lim.
 
-**Private release candidate. Not approved for public distribution.**
+**Data-only reproduction repository. The stellar solver source is excluded.**
 
 ## Reproduce everything
 
@@ -61,7 +61,7 @@ Observational shading is provided as archived display-contour coordinates,
 - [Provenance and conventions](docs/PROVENANCE.md): caps, missing points,
   rounding, interpolation, and reproducibility limits.
 - [Verification record](docs/VERIFICATION.md): clean-install test results.
-- [Release checklist](docs/RELEASE_CHECKLIST.md): required approval before publication.
+- [Release record](docs/RELEASE_CHECKLIST.md): publication scope and remaining licensing decisions.
 - [Citation information](CITATION.cff).
 
 ## Development checks
@@ -80,5 +80,6 @@ Cite the associated article and this dataset when using these data. An
 article identifier and a permanent dataset identifier will be added only
 after they exist. See `CITATION.cff` and `LICENSE-NOTICE.md`.
 
-No public repository, release, DOI deposit, or redistribution is authorized
-by the existence of this candidate.
+The project owner authorized public access to this data/reproduction repository
+on 2026-10-04. No additional software or data reuse license has been selected;
+see the rights notice. The separate stellar solver remains private.

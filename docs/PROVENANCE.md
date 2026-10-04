@@ -101,8 +101,9 @@ Figure 1. Their transformed physical coordinates reproduce the shading in
 Figures 1 and 9. They are not presented as a posterior-data release and must
 not be used for parameter inference. The original observational studies
 remain the authoritative statistical sources; bibliography entries are in
-`reference/observational_references.bib`. Their redistribution provenance
-must be confirmed before this candidate is made public.
+`reference/observational_references.bib`. Attribution and rights remain with
+the respective sources; no ownership of the original observational products
+is claimed. See the repository's rights notice.
 
 ## Interpretation limits
 
