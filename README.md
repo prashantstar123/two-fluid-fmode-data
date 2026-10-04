@@ -39,6 +39,9 @@ full-GR numerical results**. It does not recompute stellar equilibria or
 quasinormal-mode roots. The stellar solver and its source code are not part
 of this repository.
 
+The source code for the full-GR two-fluid solver may be made available by
+the corresponding author upon reasonable request.
+
 The inputs cover 21 normal-matter equations of state, dark fractions of
 1%, 5%, 10%, and 20%, core and halo sequences, representative eigenfunctions,
 the self-coupling scan, and the published octupolar frequencies. The halo
