@@ -15,8 +15,10 @@ authorized by this release.
 
 - No additional software or data reuse license has been selected. Public
   access must not be described as a permissive open-source license.
-- Article and permanent dataset identifiers may be added when available;
-  none is to be invented.
+- The associated preprint is [arXiv:2610.04282](https://arxiv.org/abs/2610.04282),
+  with v1 submitted on 3 October 2026. Paper links and citation metadata were
+  updated on 6 October 2026 from the arXiv record. No journal-publication
+  status or separate permanent dataset identifier is claimed.
 - Observational outlines remain attributed display products, not original
   posterior data. No ownership of third-party observational products is claimed.
 

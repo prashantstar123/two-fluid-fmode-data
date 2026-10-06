@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite the associated article and the released dataset when available."
+message: "Please cite arXiv:2610.04282 and identify the dataset version or commit used."
 title: "Two-fluid neutron-star f-mode data and reproduction scripts"
 type: dataset
 version: 0.1.0
+url: "https://github.com/prashantstar123/two-fluid-fmode-data"
 authors:
   - family-names: Thakur
     given-names: Prashant
@@ -17,6 +18,13 @@ preferred-citation:
   type: article
   title: "Dark matter in neutron stars: two-fluid f-mode oscillations in full general relativity"
   year: 2026
+  month: 10
+  url: "https://arxiv.org/abs/2610.04282"
+  notes: "arXiv:2610.04282 [astro-ph.HE], preprint."
+  identifiers:
+    - type: other
+      value: "arXiv:2610.04282"
+      description: "arXiv preprint identifier"
   authors:
     - family-names: Thakur
       given-names: Prashant

@@ -1,9 +1,14 @@
 # Two-fluid neutron-star f-mode data
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.04282-b31b1b.svg)](https://arxiv.org/abs/2610.04282)
+
 Numerical data and data-only reproduction scripts accompanying
 **Dark matter in neutron stars: two-fluid f-mode oscillations in full general relativity**,
 by Prashant Thakur, Ishfaq Ahmad Rather
 ([@ishfaq333](https://github.com/ishfaq333)), and Y. Lim.
+
+[Read the preprint: arXiv:2610.04282](https://arxiv.org/abs/2610.04282) |
+[PDF](https://arxiv.org/pdf/2610.04282) | [BibTeX](CITATION.bib)
 
 **Data-only reproduction repository. The stellar solver source is excluded.**
 
@@ -92,9 +97,12 @@ publication or deployment.
 
 ## Citation and permissions
 
-Cite the associated article and this dataset when using these data. An
-article identifier and a permanent dataset identifier will be added only
-after they exist. See `CITATION.cff` and `LICENSE-NOTICE.md`.
+Cite the associated preprint,
+[arXiv:2610.04282 [astro-ph.HE]](https://arxiv.org/abs/2610.04282), and identify
+the dataset version or commit used. The first preprint version was submitted
+on 3 October 2026. Use [CITATION.bib](CITATION.bib) for the arXiv-exported
+BibTeX or [CITATION.cff](CITATION.cff) for GitHub's citation metadata.
+No separate permanent dataset identifier has been assigned.
 
 The project owner authorized public access to this data/reproduction repository
 on 2026-10-04. No additional software or data reuse license has been selected;
